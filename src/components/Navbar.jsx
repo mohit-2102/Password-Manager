@@ -16,7 +16,7 @@ const Navbar = () => {
             <a href="/">Contact us</a>
           </li>
         </ul> */}
-    <button className="flex text-white gap-2 border border-white rounded-full px-3 py-1 mt-3 sm:mt-0">
+    <button className="flex text-white gap-2 border border-white rounded-full px-3 py-1 mt-0 sm:mt-0">
       <a className="flex gap-2 items-center" target="_blank" href="https://github.com/">
         <img className="invert w-5" src="/icons/github.svg" alt="Github logo" />
         GitHub
